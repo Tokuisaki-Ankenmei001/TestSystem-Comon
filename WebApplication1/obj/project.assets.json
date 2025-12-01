@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\B084897\\Documents\\作業フォルダ\\20251121_GitHubIssue確認用\\20251121_Project_Issue\\TestSystem-Comon\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\B084897\\Documents\\作業フォルダ\\20251121_GitHubIssue確認用\\20251121_Project_Issue_PFS\\TestSystem-Comon\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\B084897\\Documents\\作業フォルダ\\20251121_GitHubIssue確認用\\20251121_Project_Issue\\TestSystem-Comon\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\B084897\\Documents\\作業フォルダ\\20251121_GitHubIssue確認用\\20251121_Project_Issue_PFS\\TestSystem-Comon\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\B084897\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\B084897\\Documents\\作業フォルダ\\20251121_GitHubIssue確認用\\20251121_Project_Issue\\TestSystem-Comon\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\B084897\\Documents\\作業フォルダ\\20251121_GitHubIssue確認用\\20251121_Project_Issue_PFS\\TestSystem-Comon\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\B084897\\AppData\\Roaming\\NuGet\\NuGet.Config"
